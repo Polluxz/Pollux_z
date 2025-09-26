@@ -1,5 +1,4 @@
-# Pollux_z
-# 🧑‍💻 Pollux
+# 🧑‍💻 Pollux_z
 
 <div align="center">
 
