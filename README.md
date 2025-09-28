@@ -12,7 +12,7 @@ Hello! I'm pollux, just an ordinary guy.
 
 - :blush: **Quantitative Finance Enthusiast** - Passionate about automated investment trading
 - :dart: **Goal** - Automate all the work! Efficiency is the key to the future
-- :book: **Currently learning**: someting my hobbies,betalens
+- :book: **Currently learning**: something my hobbies,betalens
 
 ---
 
