@@ -8,7 +8,7 @@
 
 > **The most devoted fan of fate.**
 
-Hello! I'm pollux, just an ordinary guy who respects fate..
+Hello! I'm pollux, just an ordinary guy.
 
 - 🧮 **Quantitative Finance Enthusiast** - Passionate about algorithmic trading and quantitative analysis
 - 🔍 **Data Science Explorer** - Love discovering insights from data  
