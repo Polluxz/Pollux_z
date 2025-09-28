@@ -13,7 +13,7 @@ Hello! I'm pollux, just an ordinary guy who respects fate..
 - 🧮 **Quantitative Finance Enthusiast** - Passionate about algorithmic trading and quantitative analysis
 - 🔍 **Data Science Explorer** - Love discovering insights from data  
 - 🎯 **Goal** - Automate all the work! Efficiency is the key to the future
-- 🌱 **Currently learning**: someting my hobbies
+- 🌱 **Currently learning**: someting my hobbies,betalens
 
 ---
 
@@ -37,8 +37,6 @@ Hello! I'm pollux, just an ordinary guy who respects fate..
 ### 📈 Financial & Quantitative Tools
 
 ![Backtrader](https://img.shields.io/badge/Backtrader-4CAF50?style=for-the-badge&logo=python&logoColor=white)
-![Betalens](https://img.shields.io/badge/Betalens-F21589?style=for-the-badge&logo=python&logoColor=white) (learning)
-
 
 </div>
 
