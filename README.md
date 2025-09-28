@@ -47,8 +47,8 @@ Hello! I'm pollux, just an ordinary guy.
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-qingbingwei6@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](fyya.621@qq.com)
-[![GitHub](https://img.shields.io/badge/GitHub-nurhachar--sibei-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Polluxz)
+[![Email](https://img.shields.io/badge/Email-fyya.621@qq.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](www.fyya.621@qq.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Polluxz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Polluxz)
 
 
 </div>
