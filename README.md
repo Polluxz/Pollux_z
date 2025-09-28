@@ -10,10 +10,9 @@
 
 Hello! I'm pollux, just an ordinary guy.
 
-- 🧮 **Quantitative Finance Enthusiast** - Passionate about algorithmic trading and quantitative analysis
-- 🔍 **Data Science Explorer** - Love discovering insights from data  
+- 🧮 **Quantitative Finance Enthusiast** - Passionate about automated investment trading
 - 🎯 **Goal** - Automate all the work! Efficiency is the key to the future
-- 🌱 **Currently learning**: someting my hobbies,betalens
+- :book: **Currently learning**: someting my hobbies,betalens
 
 ---
 
